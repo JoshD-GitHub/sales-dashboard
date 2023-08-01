@@ -1,0 +1,25 @@
+body {
+  background-color: darkolivegreen;
+}
+
+section {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.full {
+  height: 100vh;
+}
+
+.quarter {
+  height: 25vh;
+}
+
+.half {
+  height: 50vh
+}
+
+.space {
+  margin-bottom: 15px;
+}
